@@ -3,6 +3,9 @@
 # The First International FeatureCloud Hackathon
 20 - 24.06.2022, Hamburg, University of Hamburg, Institute for Computational Systems Biology
 
+![Uploading Screenshot (20).png…]()
+
+
 # The microbiome challenge:
 
 ## Data:
@@ -10,6 +13,8 @@ Shotgun metagenome data of gut microbiomes from ca. 1,400 colorectal cancer (CRC
 
 ## Goal: 
 Prediction of colorectal cancer (CRC) phenotype (CRC, adenoma, healthy), and sub-phenotypes (e.g. CRC stage)
+
+
 
 ## Additional difficulty: 
 Unbalanced class distribution, unbalanced features (e.g. gender, age), hidden confounders (we will simulate this with known features, e.g. age or BMI)
