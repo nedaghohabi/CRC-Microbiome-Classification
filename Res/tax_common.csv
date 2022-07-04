@@ -1,0 +1,254 @@
+,catalogue,Taxo_level,species,genus,family,order,class,phylum,superkingdom,knowledge,sample
+msp_0003,gut,species,Bacteroides cellulosilyticus,Bacteroides,Bacteroidaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0003
+msp_0005,gut & oral,species,Escherichia coli,Escherichia,Enterobacteriaceae,Enterobacterales,Gammaproteobacteria,Proteobacteria,Bacteria,known,msp_0005
+msp_0007,gut,species,Bacteroides ovatus,Bacteroides,Bacteroidaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0007
+msp_0008,gut,species,Bacteroides intestinalis,Bacteroides,Bacteroidaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0008
+msp_0009,gut,species,Enterocloster bolteae,Enterocloster,Lachnospiraceae I,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0009
+msp_0010,gut,species,Bacteroides fragilis,Bacteroides,Bacteroidaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0010
+msp_0011,gut,species,Bacteroides thetaiotaomicron,Bacteroides,Bacteroidaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0011
+msp_0012,gut,species,Parabacteroides distasonis,Parabacteroides,Tannerellaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0012
+msp_0013,gut,species,Ruminococcus bicirculans,Ruminococcus 2,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,known,msp_0013
+msp_0015,gut,species,Agathobacter faecis,Agathobacter,Lachnospiraceae C,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0015
+msp_0016,gut,species,Bacteroides plebeius,Bacteroides 2,Bacteroidaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0016
+msp_0017,gut,species,Roseburia intestinalis,Roseburia,Lachnospiraceae C,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0017
+msp_0021,gut,species,Bacteroides xylanisolvens,Bacteroides,Bacteroidaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0021
+msp_0022,gut,species,Bacteroides finegoldii,Bacteroides,Bacteroidaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0022
+msp_0023,gut,species,Bacteroides caccae,Bacteroides,Bacteroidaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0023
+msp_0025,gut,species,Akkermansia muciniphila,Akkermansia,Akkermansiaceae,Verrucomicrobiales,Verrucomicrobiae,Verrucomicrobiota,Bacteria,known,msp_0025
+msp_0027,gut,species,Parabacteroides merdae,Parabacteroides,Tannerellaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0027
+msp_0028,gut,species,Parabacteroides goldsteinii,Parabacteroides,Tannerellaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0028
+msp_0029,gut,species,[Eubacterium] eligens,Lachnospira,Lachnospiraceae H,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0029
+msp_0031,gut,species,Bacteroides stercoris,Bacteroides,Bacteroidaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0031
+msp_0032,gut,species,Alistipes onderdonkii,Alistipes,Rikenellaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0032
+msp_0034,gut,species,[Faecalibacterium] sp. CAG:74,unclassified Christensenellales CAG-74,Christensenellales CAG-74,Christensenellales,Clostridia,Firmicutes,Bacteria,unknown,msp_0034
+msp_0035,gut,species,Bacteroides dorei,Bacteroides 3,Bacteroidaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0035
+msp_0036,gut,species,Bacteroides eggerthii,Bacteroides,Bacteroidaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0036
+msp_0037,gut,species,Bacteroides salyersiae,Bacteroides,Bacteroidaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0037
+msp_0039,gut,species,Lachnospiraceae bacterium hRUG904 / Clostridiales bacterium RUG495 / [Clostridium] sp. CAG:127,Lachnospiraceae A RUG495,Lachnospiraceae A,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0039
+msp_0040,gut,species,Bacteroides massiliensis,Bacteroides 3,Bacteroidaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0040
+msp_0041,gut,species,Prevotella copri,Prevotella,Prevotellaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0041
+msp_0042,gut,species,Coprococcus eutactus 2,Coprococcus,Lachnospiraceae A,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0042
+msp_0043,gut,species,Bacteroides coprocola,Bacteroides 2,Bacteroidaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0043
+msp_0045,gut,species,[Ruminococcus] bromii 2,Acutalibacteraceae 3 CAG-581,Acutalibacteraceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0045
+msp_0046,gut,species,Bacteroides uniformis,Bacteroides,Bacteroidaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0046
+msp_0047,gut,species,[Eubacterium] sp. CAG:115,Ruminococcaceae CAG-115,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0047
+msp_0048,gut,species,[Eubacterium] sp. CAG:38,Lachnospira,Lachnospiraceae H,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0048
+msp_0050,gut,species,Anaerobutyricum hallii,Anaerobutyricum,Lachnospiraceae A,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0050
+msp_0052,gut,species,Blautia sp. CAG:257,Blautia A,Lachnospiraceae K,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0052
+msp_0053,gut,species,[Eubacterium] siraeum,Ruminiclostridium,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,known,msp_0053
+msp_0055,gut,species,Firmicutes bacterium CAG:65 / [Clostridium] sp. 2789STDY5608883,unclassified Lachnospiraceae G,Lachnospiraceae G,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0055
+msp_0056,gut,genus,unclassified Enterocloster,Enterocloster,Lachnospiraceae I,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0056
+msp_0057,gut,species,[Roseburia] sp. CAG:45 & sp. 2789STDY5608886,Lachnospiraceae C EuR,Lachnospiraceae C,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0057
+msp_0058,gut,species,[Ruminococcus] gnavus,Mediterraneibacter,Lachnospiraceae J,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0058
+msp_0059,gut,species,Barnesiella intestinihominis,Barnesiella,Barnesiellaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0059
+msp_0060,gut,species,Lachnospiraceae bacterium CIM:MAG 844 / Firmicutes bacterium CAG:95,Acetatifactor,Lachnospiraceae G,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0060
+msp_0062,gut,species,Odoribacter splanchnicus,Odoribacter,Marinifilaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0062
+msp_0063,gut,species,Bacteroides clarus,Bacteroides,Bacteroidaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0063
+msp_0065,gut,species,[Ruminococcus] sp. CAG:17 / Blautia sp. 2789STDY5608880,Blautia A,Lachnospiraceae K,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0065
+msp_0066,gut,species,[Clostridium] sp. AT4,Enterocloster,Lachnospiraceae I,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0066
+msp_0068,gut,species,Agathobacter rectale,Agathobacter,Lachnospiraceae C,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0068
+msp_0069,gut & oral,species,Bacteroides vulgatus,Bacteroides 3,Bacteroidaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0069
+msp_0071,gut,species,Roseburia hominis,Roseburia,Lachnospiraceae C,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0071
+msp_0072,gut,species,Roseburia inulinivorans,Roseburia,Lachnospiraceae C,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0072
+msp_0075,gut,species,Lachnospiraceae sp. 3,unclassified Lachnospiraceae G,Lachnospiraceae G,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0075
+msp_0076,gut,species,Blautia wexlerae,Blautia A,Lachnospiraceae K,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0076
+msp_0079,gut,species,[Clostridium] sp. CAG:7,Enterocloster,Lachnospiraceae I,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0079
+msp_0086,gut,species,[Clostridium] symbiosum,Lachnoclostridium,Lachnospiraceae I,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0086
+msp_0087,gut,species,Lachnospira pectinoschiza,Lachnospira,Lachnospiraceae H,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0087
+msp_0089,gut,species,Alistipes finegoldii,Alistipes,Rikenellaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0089
+msp_0090,gut,species,Alistipes putredinis,Alistipes,Rikenellaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0090
+msp_0092,gut,species,Sutterella wadsworthensis,Sutterella,Burkholderiaceae,Burkholderiales,Gammaproteobacteria,Proteobacteria,Bacteria,known,msp_0092
+msp_0093,gut,species,[Clostridium] sp. CAG:62,Lachnospiraceae B EuB,Lachnospiraceae B,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0093
+msp_0095,gut,species,[Eubacterium] sp. CAG:202,Acutalibacteraceae 3 CAG-581,Acutalibacteraceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0095
+msp_0105,gut,species,[Ruminococcus] sp. CAG:177,Acutalibacteraceae 1 CAG-177,Acutalibacteraceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0105
+msp_0107,gut,species,Anaerostipes hadrus,Anaerostipes,Lachnospiraceae A,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0107
+msp_0110,gut,species,Bilophila wadsworthia,Bilophila,Desulfovibrionaceae,Desulfovibrionales,Desulfovibrionia,Desulfobacterota,Bacteria,known,msp_0110
+msp_0111,gut,species,[Faecalimonas] umbilicata,Tyzzerella,Lachnospiraceae J,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0111
+msp_0121,gut,species,[Oscillibacter] sp. CAG:241_62_21,Oscillospiraceae CAG-129,Oscillospiraceae,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0121
+msp_0124,gut,species,[Candidatus Cibiobacter] qucibialis,Gemmiger,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,known,msp_0124
+msp_0125,gut,species,Firmicutes bacterium CAG:24 / [Clostridium] sp. 2789STDY5834869 & 2789STDY5834922,Eisenbergiella,Lachnospiraceae G,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0125
+msp_0126,gut,species,[Ruminococcus] torques,Mediterraneibacter,Lachnospiraceae J,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0126
+msp_0128,gut,species,Butyricimonas virosa,Butyricimonas,Marinifilaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0128
+msp_0129,gut,species,[Clostridium] sp. CAG:58,Lachnoclostridium 2,Lachnospiraceae I,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0129
+msp_0131,gut,species,Phascolarctobacterium faecium,Phascolarctobacterium,Acidaminococcaceae,Acidaminococcales,Negativicutes,Firmicutes,Bacteria,known,msp_0131
+msp_0133,gut,species,Coprococcus sp. 2789STDY5608819 / [Clostridium] sp. CAG:264,Coprococcus,Lachnospiraceae A,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0133
+msp_0134,gut,species,Megamonas funiformis == rupellensis,Megamonas,Selenomonadaceae,Selenomonadales,Negativicutes,Firmicutes,Bacteria,known,msp_0134
+msp_0138,gut,species,Bifidobacterium pseudocatenulatum,Bifidobacterium,Bifidobacteriaceae,Actinomycetales,Actinobacteria,Actinobacteriota,Bacteria,known,msp_0138
+msp_0139,gut,species,Coprobacter fastidiosus,Coprobacter,Barnesiellaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0139
+msp_0141,gut,species,Blautia massiliensis,Blautia A,Lachnospiraceae K,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0141
+msp_0142,gut,species,[Blautia] sp. CAG:52 & SG-772 & sp. 2789STDY5834917,Fusicatenibacter,Lachnospiraceae K,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0142
+msp_0144,gut,species,[Clostridium] sp. CAG:138,unclassified Christensenellales CAG-138,Christensenellales CAG-138,Christensenellales,Clostridia,Firmicutes,Bacteria,unknown,msp_0144
+msp_0145,gut,species,Parasutterella excrementihominis,Parasutterella,Burkholderiaceae,Burkholderiales,Gammaproteobacteria,Proteobacteria,Bacteria,known,msp_0145
+msp_0148c,gut & oral,species,Veillonella infantium,Veillonella,Veillonellaceae,Veillonellales,Negativicutes,Firmicutes,Bacteria,known,msp_0148c
+msp_0151,gut,species,Butyricimonas faecihominis,Butyricimonas,Marinifilaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0151
+msp_0152,gut,species,Mediterraneibacter faecis,Mediterraneibacter,Lachnospiraceae J,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0152
+msp_0153,gut,species,Erysipelatoclostridium ramosum,Erysipelatoclostridium,Erysipelatoclostridiaceae,Erysipelotrichales,Bacilli,Firmicutes,Bacteria,known,msp_0153
+msp_0154,gut,species,Fusicatenibacter saccharivorans,Fusicatenibacter,Lachnospiraceae K,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0154
+msp_0160,gut,species,[Faecalitalea] sp. UBA637,Holdemanella,Erysipelotrichaceae,Erysipelotrichales,Bacilli,Firmicutes,Bacteria,unknown,msp_0160
+msp_0161,gut,species,[Eubacterium] sp. CAG:248,Lachnospira,Lachnospiraceae H,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0161
+msp_0163,gut,species,Firmicutes bacterium CAG:227,Blautia,Lachnospiraceae K,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0163
+msp_0164,gut,species,[Ruminococcus] sp. 2789STDY5608794 & sp. 2789STDY5834890 / Firmicutes bacterium CAG:56,Lachnospiraceae K CAG-56,Lachnospiraceae K,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0164
+msp_0172,gut,species,Ruthenibacterium lactatiformans,Ruthenibacterium,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,known,msp_0172
+msp_0173,gut,species,[Christensenellaceae] bacterium Phil1 & [Clostridium] sp. CAG:226,unclassified Christensenellales CAG-138,Christensenellales CAG-138,Christensenellales,Clostridia,Firmicutes,Bacteria,unknown,msp_0173
+msp_0178,gut,species,Ruminococcus sp. A254.MGS-254 & CAG:254,Ruminococcus,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0178
+msp_0188,gut,species,Erysipelatoclostridium sp1,Erysipelatoclostridium,Erysipelatoclostridiaceae,Erysipelotrichales,Bacilli,Firmicutes,Bacteria,unknown,msp_0188
+msp_0189,gut,species,Blautia sp. CAG:237,Blautia A,Lachnospiraceae K,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0189
+msp_0194,gut,species,[Clostridium] sp. 42_12 & CAG:75,Lachnospiraceae B TF01-11,Lachnospiraceae B,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0194
+msp_0195,gut,species,Desulfovibrio piger,Desulfovibrio,Desulfovibrionaceae,Desulfovibrionales,Desulfovibrionia,Desulfobacterota,Bacteria,known,msp_0195
+msp_0196,gut,species,Alistipes shahii,Alistipes,Rikenellaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0196
+msp_0199,gut,species,Muribaculaceae sp. 6,Muribaculaceae sp6,Muribaculaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,unknown,msp_0199
+msp_0203,gut,species,Negativibacillus massiliensis,Negativibacillus,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,known,msp_0203
+msp_0205,gut,species,Firmicutes bacterium CAG:124,Oscillospirales 5 CAG-170,Oscillospirales 5,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0205
+msp_0208,gut,species,[Ruminococcus] sp. Marseille-P328 & Blautia sp. 2789STDY5608844 & sp. 2789STDY5608844,Blautia A,Lachnospiraceae K,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0208
+msp_0213,gut,species,Flavonifractor plautii,Flavonifractor,Oscillospirales 6,Oscillospirales,Clostridia,Firmicutes,Bacteria,known,msp_0213
+msp_0221,gut,species,Acidaminococcus intestini,Acidaminococcus,Acidaminococcaceae,Acidaminococcales,Negativicutes,Firmicutes,Bacteria,known,msp_0221
+msp_0224,gut,species,Prevotella copri 2,Prevotella,Prevotellaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,unknown,msp_0224
+msp_0225,gut,species,Alistipes obesi,Alistipes,Rikenellaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0225
+msp_0227,gut,species,[Eubacterium] sp. 36_13 & CAG:86 & RUG185,Lachnospira,Lachnospiraceae H,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0227
+msp_0230,gut,species,Alistipes inops == Tidjanibacter massiliensis,Tidjanibacter,Rikenellaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0230
+msp_0232,gut,species,Dorea sp. CAG:317,Dorea,Lachnospiraceae J,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0232
+msp_0236,gut,species,[Eubacterium] ventriosum,Lachnospiraceae B EuG,Lachnospiraceae B,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0236
+msp_0244,gut,species,[Ruminococcus] sp. CAG:60 / Blautia sp. 2789STDY5608836,Blautia A,Lachnospiraceae K,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0244
+msp_0246,gut,species,Tyzzerella nexilis,Tyzzerella,Lachnospiraceae J,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0246
+msp_0250,gut,species,[Ruminococcus] lactaris,Mediterraneibacter,Lachnospiraceae J,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0250
+msp_0258,gut,species,Anaerotignum faecicola,Anaerotignum,Anaerotignaceae,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0258
+msp_0259,gut,species,Coprococcus comes,Coprococcus B,Lachnospiraceae J,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0259
+msp_0262,gut,species,Ruminococcus callidus,Ruminococcus,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,known,msp_0262
+msp_0263,gut,species,Bifidobacterium adolescentis,Bifidobacterium,Bifidobacteriaceae,Actinomycetales,Actinobacteria,Actinobacteriota,Bacteria,known,msp_0263
+msp_0271,gut,species,[Eubacterium] sp. CAG:180,Acutalibacteraceae 1 CAG-180,Acutalibacteraceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0271
+msp_0274,gut,species,Sellimonas intestinalis == Drancourtella massiliensis,Sellimonas,Lachnospiraceae J,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0274
+msp_0277,gut,species,[Eubacterium] sp. CAG:251 / [Clostridium] sp. A254.MGS-251,Acutalibacteraceae 2 CAG-528,Acutalibacteraceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0277
+msp_0280,gut,species,Sutterella wadsworthensis 2,Sutterella,Burkholderiaceae,Burkholderiales,Gammaproteobacteria,Proteobacteria,Bacteria,unknown,msp_0280
+msp_0281,gut,species,Catenibacterium sp. CAG:290,Catenibacterium,Erysipelatoclostridiaceae,Erysipelotrichales,Bacilli,Firmicutes,Bacteria,unknown,msp_0281
+msp_0285,gut,species,[Clostridium] sp. CAG:217 / Clostridiales bacterium CIM:MAG 317_1,Acutalibacteraceae 2 CAG-217,Acutalibacteraceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0285
+msp_0287,gut,species,Alistipes ihumii,Alistipes 2,Rikenellaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0287
+msp_0291,gut,genus,unclassified Acutalibacteraceae 3 UBA1417,Acutalibacteraceae 3 UBA1417,Acutalibacteraceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0291
+msp_0296,gut,genus,unclassified Lachnospiraceae C 14-2,Lachnospiraceae C 14-2,Lachnospiraceae C,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0296
+msp_0299,gut,species,[Eubacterium] ramulus,Lachnospiraceae C EuR,Lachnospiraceae C,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0299
+msp_0301,gut,species,Faecalibacterium prausnitzii,Faecalibacterium,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,known,msp_0301
+msp_0306,gut,species,Firmicutes bacterium CAG:176,Oscillospiraceae CAG-129,Oscillospiraceae,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0306
+msp_0307,gut,species,Dorea longicatena,Dorea,Lachnospiraceae J,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0307
+msp_0312,gut,species,Firmicutes bacterium CAG:110,Oscillospirales 5 CAG-110,Oscillospirales 5,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0312
+msp_0315,gut,species,Firmicutes bacterium CAG:145,Anaerovoracaceae CAG-145,Anaerovoracaceae,Peptostreptococcales,Clostridia,Firmicutes,Bacteria,unknown,msp_0315
+msp_0318,gut,species,Alistipes indistinctus,Alistipes 2,Rikenellaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0318
+msp_0325,gut,species,Ruminococcus sp. UNK.MGS-30,Ruminococcus,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0325
+msp_0331,gut,species,Dysosmobacter welbionis,Dysosmobacter - Oscillibacter,Oscillospiraceae,Oscillospirales,Clostridia,Firmicutes,Bacteria,known,msp_0331
+msp_0335,gut,species,Alistipes dispar,Alistipes,Rikenellaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0335
+msp_0337,gut,species,[Eubacterium] sp. 38_16 & CAG:146,Anaerobutyricum,Lachnospiraceae A,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0337
+msp_0338,gut,species,Fusobacterium mortiferum,Fusobacterium,Fusobacteriaceae,Fusobacteriales,Fusobacteriia,Fusobacteriota,Bacteria,known,msp_0338
+msp_0340,gut,species,[Clostridium] leptum,Acutalibacteraceae 3,Acutalibacteraceae,Clostridiales,Clostridia,Firmicutes,Bacteria,known,msp_0340
+msp_0342,gut,species,[Flavonifractor] sp. 2789STDY5834931 / Clostridiales bacterium CCNA10,Lawsonibacter,Oscillospirales 6,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0342
+msp_0345,gut,species,Faecalibacterium prausnitzii 8,Faecalibacterium,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0345
+msp_0346,gut,species,Lachnoclostridium sp. SNUG30386 / [Clostridium] sp. CAG:43,Lachnoclostridium,Lachnospiraceae I,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0346
+msp_0356,gut,genus,unclassified Oscillospirales 5 CAG-110,Oscillospirales 5 CAG-110,Oscillospirales 5,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0356
+msp_0357,gut,species,[Clostridium] sp. CAG:169,Negativibacillus,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0357
+msp_0374,gut,species,Gemmiger formicilis,Gemmiger,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,known,msp_0374
+msp_0378,gut,species,[Eubacterium] sp. CAG:156,Lachnospiraceae B EuG,Lachnospiraceae B,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0378
+msp_0388,gut,species,Faecalibacterium prausnitzii 3 [F. longum],Faecalibacterium,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0388
+msp_0389,gut,species,Faecalibacterium prausnitzii 4,Faecalibacterium,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0389
+msp_0396,gut,species,Adlercreutzia equolifaciens = Asaccharobacter celatus,Adlercreutzia,Eggerthellaceae,Coriobacteriales,Coriobacteriia,Actinobacteriota,Bacteria,known,msp_0396
+msp_0398,gut,species,Clostridia bacterium CIM:MAG 635,unclassified Christensenellales CAG-138,Christensenellales CAG-138,Christensenellales,Clostridia,Firmicutes,Bacteria,unknown,msp_0398
+msp_0404,gut,genus,unclassified Oscillospirales 5 CAG-170,Oscillospirales 5 CAG-170,Oscillospirales 5,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0404
+msp_0407,gut,genus,unclassified Gemmiger,Gemmiger,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0407
+msp_0412,gut,species,[Bacteroides] sp. CAG:144,unclassified Barnesiellaceae,Barnesiellaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,unknown,msp_0412
+msp_0418,gut,genus,unclassified Gemmiger,Gemmiger,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0418
+msp_0419,gut,species,Bifidobacterium bifidum,Bifidobacterium,Bifidobacteriaceae,Actinomycetales,Actinobacteria,Actinobacteriota,Bacteria,known,msp_0419
+msp_0422,gut,species,Romboutsia timonensis,Romboutsia,Peptostreptococcaceae,Peptostreptococcales,Clostridia,Firmicutes,Bacteria,known,msp_0422
+msp_0425,gut,genus,unclassified Evtepia,Evtepia,Oscillospirales 6,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0425
+msp_0436,gut,species,Blautia obeum,Blautia A,Lachnospiraceae K,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0436
+msp_0452,gut,family,unclassified Oscillospirales 4,unclassified Oscillospirales 4,Oscillospirales 4,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0452
+msp_0456,gut,genus,unclassified Gemmiger,Gemmiger,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0456
+msp_0457,gut,species,Faecalibacterium prausnitzii 9,Faecalibacterium,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0457
+msp_0464,gut,species,[Eubacterium] ramulus 2,Lachnospiraceae C EuR,Lachnospiraceae C,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0464
+msp_0467,gut,species,Firmicutes bacterium CAG:94,Acutalibacter,Acutalibacteraceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0467
+msp_0468,gut,species,Firmicutes bacterium CAG:41 / [Clostridium] sp. 2789STDY5834935 & sp. 2789STDY5608853,unclassified Monoglobales UBA1381,Monoglobales UBA1381,Monoglobales,Clostridia,Firmicutes,Bacteria,unknown,msp_0468
+msp_0471,gut,genus,unclassified Oscillospirales 6 UBA9475,Oscillospirales 6 UBA9475,Oscillospirales 6,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0471
+msp_0473c,gut,species,[Clostridium] sp. 2789STDY5834874 & sp. 2789STDY5608885,Lachnospiraceae K GCA-900066575,Lachnospiraceae K,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0473c
+msp_0477,gut,species,Firmicutes bacterium CAG:83,Oscillospiraceae CAG-129,Oscillospiraceae,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0477
+msp_0478,gut,species,Lawsonibacter phoceensis,Lawsonibacter,Oscillospirales 6,Oscillospirales,Clostridia,Firmicutes,Bacteria,known,msp_0478
+msp_0484,gut,genus,unclassified Faecalibacterium,Faecalibacterium,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0484
+msp_0489,gut,genus,unclassified Blautia A,Blautia A,Lachnospiraceae K,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0489
+msp_0490,gut,genus,unclassified Angelakisella,Angelakisella,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0490
+msp_0506,gut,species,Dorea formicigenerans,Dorea,Lachnospiraceae J,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0506
+msp_0509,gut,species,Evtepia gabavorus,Evtepia,Oscillospirales 6,Oscillospirales,Clostridia,Firmicutes,Bacteria,known,msp_0509
+msp_0510,gut,species,Mediterraneibacter glycyrrhizinilyticus,Mediterraneibacter,Lachnospiraceae J,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0510
+msp_0512,gut,species,Firmicutes bacterium CAG:321,Bacilli RF39 CAG-302 CAG-302,Bacilli RF39 CAG-302,Bacilli RF39,Bacilli,Firmicutes,Bacteria,unknown,msp_0512
+msp_0530,gut,species,Dorea longicatena 2,Dorea,Lachnospiraceae J,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0530
+msp_0534,gut,species,Firmicutes bacterium CAG:176_63_11,Oscillospiraceae CAG-129,Oscillospiraceae,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0534
+msp_0538,gut,species,Phascolarctobacterium succinatutens,Phascolarctobacterium,Acidaminococcaceae,Acidaminococcales,Negativicutes,Firmicutes,Bacteria,known,msp_0538
+msp_0546,gut,species,[Clostridium] sp. CAG:245 & CIM:MAG 941,unclassified Clostridiales 2b,Clostridiales 2b,Clostridiales 2,Clostridia,Firmicutes,Bacteria,unknown,msp_0546
+msp_0551,gut,species,[Eubacterium] sp. CAG:192,Lachnospiraceae B EuG,Lachnospiraceae B,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0551
+msp_0554,gut,species,Anaerostipes hadrus 2,Anaerostipes,Lachnospiraceae A,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0554
+msp_0563,gut,genus,unclassified Murimonas,Murimonas,Lachnospiraceae K,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0563
+msp_0572,gut,species,[Lachnospira] sp. 2789STDY5834967 / Clostridiales bacterium KLE1615 & 41_12_two_minus,unclassified Lachnospiraceae H,Lachnospiraceae H,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0572
+msp_0573,gut & oral,species,Eggerthella lenta,Eggerthella,Eggerthellaceae,Coriobacteriales,Coriobacteriia,Actinobacteriota,Bacteria,known,msp_0573
+msp_0576,gut,genus,unclassified Lachnospiraceae C EuR,Lachnospiraceae C EuR,Lachnospiraceae C,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0576
+msp_0578,gut,species,[Clostridium] sp. CAG:269,unclassified Clostridiales 2a,Clostridiales 2a,Clostridiales 2,Clostridia,Firmicutes,Bacteria,unknown,msp_0578
+msp_0584,gut,species,Eggerthella sp. CAG:298,Eggerthella,Eggerthellaceae,Coriobacteriales,Coriobacteriia,Actinobacteriota,Bacteria,unknown,msp_0584
+msp_0585,gut,species,Methanobrevibacter smithii,Methanobrevibacter,Methanobacteriaceae,Methanobacteriales,Methanobacteria,Euryarchaeota,Archaea,known,msp_0585
+msp_0591,gut,genus,unclassified Enterocloster,Enterocloster,Lachnospiraceae I,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0591
+msp_0592,gut,family,unclassified Christensenellales CAG-74,unclassified Christensenellales CAG-74,Christensenellales CAG-74,Christensenellales,Clostridia,Firmicutes,Bacteria,unknown,msp_0592
+msp_0596,gut,species,[Clostridiales] bacterium UBA4696,Oscillospirales 5 CAG-170,Oscillospirales 5,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0596
+msp_0604,gut,species,Dorea sp. CAG:105,Dorea,Lachnospiraceae J,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0604
+msp_0621,gut,species,Intestinibacter bartlettii,Intestinibacter,Peptostreptococcaceae,Peptostreptococcales,Clostridia,Firmicutes,Bacteria,known,msp_0621
+msp_0622,gut,family,unclassified Christensenellales CAG-74,unclassified Christensenellales CAG-74,Christensenellales CAG-74,Christensenellales,Clostridia,Firmicutes,Bacteria,unknown,msp_0622
+msp_0623,gut,species,Erysipelatoclostridium sp2,Erysipelatoclostridium,Erysipelatoclostridiaceae,Erysipelotrichales,Bacilli,Firmicutes,Bacteria,unknown,msp_0623
+msp_0639,gut,species,Faecalibacterium prausnitzii 6 [F. butyricigenerans],Faecalibacterium,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0639
+msp_0648,gut,species,Holdemanella biformis,Holdemanella,Erysipelotrichaceae,Erysipelotrichales,Bacilli,Firmicutes,Bacteria,known,msp_0648
+msp_0650,gut,genus,unclassified Agathobaculum,Agathobaculum,Butyricicoccaceae,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0650
+msp_0654,gut,species,Firmicutes bacterium CAG:103,Oscillospirales 4 CAG-103,Oscillospirales 4,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0654
+msp_0655,gut,species,[Ruminococcus] sp. 2789STDY5608817 / [Eubacterium] sp. 2789STDY5834872,unclassified Lachnospiraceae J,Lachnospiraceae J,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0655
+msp_0722,gut,species,Blautia obeum 2,Blautia A,Lachnospiraceae K,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0722
+msp_0723,gut,genus,unclassified Oscillospirales 5 CAG-170,Oscillospirales 5 CAG-170,Oscillospirales 5,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0723
+msp_0735,gut,species,Monoglobus pectinilyticus,Monoglobus,Monoglobaceae,Monoglobales,Clostridia,Firmicutes,Bacteria,known,msp_0735
+msp_0742,gut & oral,species,Streptococcus parasanguinis,Streptococcus,Streptococcaceae,Lactobacillales,Bacilli,Firmicutes,Bacteria,known,msp_0742
+msp_0756,gut,genus,unclassified Blautia A,Blautia A,Lachnospiraceae K,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0756
+msp_0763,gut,species,[Oscillibacter] sp. ER4 / Firmicutes bacterium CAG:129_59_24,Oscillospiraceae CAG-129,Oscillospiraceae,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0763
+msp_0769,gut,species,Agathobaculum butyriciproducens,Agathobaculum,Butyricicoccaceae,Oscillospirales,Clostridia,Firmicutes,Bacteria,known,msp_0769
+msp_0777,gut,species,[Clostridiales] bacterium RUG303 & RUG439 & RUG453 / Firmicutes bacterium CAG:129,Oscillospiraceae CAG-129,Oscillospiraceae,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0777
+msp_0794,gut,species,Slackia isoflavoniconvertens,Slackia,Eggerthellaceae,Coriobacteriales,Coriobacteriia,Actinobacteriota,Bacteria,known,msp_0794
+msp_0800,gut,species,Eggerthella sp. 51_9 & CAG:209,Eggerthella,Eggerthellaceae,Coriobacteriales,Coriobacteriia,Actinobacteriota,Bacteria,unknown,msp_0800
+msp_0818,gut,species,[Clostridium] sp. CAG:302,Bacilli RF39 CAG-302 CAG-302,Bacilli RF39 CAG-302,Bacilli RF39,Bacilli,Firmicutes,Bacteria,unknown,msp_0818
+msp_0820,gut,genus,unclassified Hungatella,Hungatella,Lachnospiraceae I,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0820
+msp_0861,gut,genus,unclassified Dysosmobacter - Oscillibacter,Dysosmobacter - Oscillibacter,Oscillospiraceae,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0861
+msp_0874,gut,genus,unclassified Oscillospiraceae CAG-129,Oscillospiraceae CAG-129,Oscillospiraceae,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0874
+msp_0879,gut,genus,unclassified Faecalibacterium,Faecalibacterium,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0879
+msp_0881,gut & oral,species,Haemophilus parainfluenzae,Haemophilus,Pasteurellaceae,Enterobacterales,Gammaproteobacteria,Proteobacteria,Bacteria,known,msp_0881
+msp_0884,gut & oral,species,Veillonella atypica,Veillonella,Veillonellaceae,Veillonellales,Negativicutes,Firmicutes,Bacteria,known,msp_0884
+msp_0893,gut,species,Faecalibacterium prausnitzii 2 [F. moorei],Faecalibacterium,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_0893
+msp_0898,gut,species,butyrate-producing bacterium SS3/4-[Clostridium] sp. CAG:81,Lachnoclostridium 2,Lachnospiraceae I,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0898
+msp_0903,gut,species,Oscillibacter sp. 57_20,Dysosmobacter - Oscillibacter,Oscillospiraceae,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0903
+msp_0906,gut,species,[Clostridium] sp. 2789STDY5834924,Lachnoclostridium 2,Lachnospiraceae I,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0906
+msp_0917,gut,genus,unclassified Oscillospirales 4 CAG-103,Oscillospirales 4 CAG-103,Oscillospirales 4,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0917
+msp_0930,gut,genus,unclassified Lachnospiraceae K UBA7182,Lachnospiraceae K UBA7182,Lachnospiraceae K,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0930
+msp_0942,gut,species,Ellagibacter isourolithinifaciens,Ellagibacter,Eggerthellaceae,Coriobacteriales,Coriobacteriia,Actinobacteriota,Bacteria,known,msp_0942
+msp_0945,gut,genus,unclassified Frisingicoccus,Frisingicoccus,Lachnospiraceae A,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0945
+msp_0977,gut,species,[Flavonifractor] sp. 2789STDY5834895 & sp. 2789STDY5834937 /  [Clostridium] sp. 2789STDY5608878,Lawsonibacter,Oscillospirales 6,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_0977
+msp_0986,gut,species,[Coprococcus] catus,Frisingicoccus,Lachnospiraceae A,Lachnospirales,Clostridia,Firmicutes,Bacteria,known,msp_0986
+msp_1009,gut,species,Senegalimassilia anaerobia,Senegalimassilia,Eggerthellaceae,Coriobacteriales,Coriobacteriia,Actinobacteriota,Bacteria,known,msp_1009
+msp_1021,gut,species,Clostridia bacterium CIM:MAG 232,Oscillospirales 5 CAG-170,Oscillospirales 5,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_1021
+msp_1032,gut,genus,unclassified Evtepia,Evtepia,Oscillospirales 6,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_1032
+msp_1033,gut,species,[Clostridium] sp. CAG:273,unclassified Clostridiales 2b,Clostridiales 2b,Clostridiales 2,Clostridia,Firmicutes,Bacteria,unknown,msp_1033
+msp_1060c,gut,genus,unclassified Flavonifractor,Flavonifractor,Oscillospirales 6,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_1060c
+msp_1114,gut,species,Allisonella histaminiformans,Allisonella,Dialisteraceae,Veillonellales,Negativicutes,Firmicutes,Bacteria,known,msp_1114
+msp_1143,gut,genus,unclassified Dysosmobacter - Oscillibacter,Dysosmobacter - Oscillibacter,Oscillospiraceae,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_1143
+msp_1173c,gut,family,unclassified Oscillospiraceae,unclassified Oscillospiraceae,Oscillospiraceae,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_1173c
+msp_1236,gut,genus,unclassified Hungatella,Hungatella,Lachnospiraceae I,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_1236
+msp_1244,gut,species,Collinsella aerofaciens,Collinsella,Coriobacteriaceae,Coriobacteriales,Coriobacteriia,Actinobacteriota,Bacteria,known,msp_1244
+msp_1270,gut,family,unclassified Lachnospiraceae H,unclassified Lachnospiraceae H,Lachnospiraceae H,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_1270
+msp_1279,gut,genus,unclassified Acutalibacteraceae 3,Acutalibacteraceae 3,Acutalibacteraceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_1279
+msp_1291,gut,species,[Clostridiales] bacterium CIM:MAG 451,unclassified Anaerovoracaceae,Anaerovoracaceae,Peptostreptococcales,Clostridia,Firmicutes,Bacteria,unknown,msp_1291
+msp_1302,gut,genus,unclassified Oscillospirales 5 CAG-170,Oscillospirales 5 CAG-170,Oscillospirales 5,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_1302
+msp_1323,gut,genus,unclassified Lawsonibacter,Lawsonibacter,Oscillospirales 6,Oscillospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_1323
+msp_1339,gut,species,Gordonibacter urolithinfaciens,Gordonibacter,Eggerthellaceae,Coriobacteriales,Coriobacteriia,Actinobacteriota,Bacteria,known,msp_1339
+msp_1349,gut,genus,unclassified Negativibacillus,Negativibacillus,Ruminococcaceae,Clostridiales,Clostridia,Firmicutes,Bacteria,unknown,msp_1349
+msp_1641,gut,genus,unclassified Lachnospiraceae K UBA7182,Lachnospiraceae K UBA7182,Lachnospiraceae K,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_1641
+msp_1643c,gut,species,[Ruminococcus] sp. JC304,Blautia A,Lachnospiraceae K,Lachnospirales,Clostridia,Firmicutes,Bacteria,unknown,msp_1643c
+msp_0026,gut & oral,species,Paraprevotella clara,Paraprevotella,Bacteroidaceae,Bacteroidales,Bacteroidia,Bacteroidota,Bacteria,known,msp_0026
+msp_0030,gut & oral,species,Klebsiella pneumoniae,Klebsiella,Enterobacteriaceae,Enterobacterales,Gammaproteobacteria,Proteobacteria,Bacteria,known,msp_0030
+msp_0166,gut & oral,species,Bifidobacterium longum,Bifidobacterium,Bifidobacteriaceae,Actinomycetales,Actinobacteria,Actinobacteriota,Bacteria,known,msp_0166
+msp_0212,gut & oral,species,Dialister invisus,Dialister,Dialisteraceae,Veillonellales,Negativicutes,Firmicutes,Bacteria,known,msp_0212
+msp_0313,gut & oral,species,Veillonella parvula,Veillonella,Veillonellaceae,Veillonellales,Negativicutes,Firmicutes,Bacteria,known,msp_0313
+msp_0380,gut & oral,species,Streptococcus salivarius,Streptococcus,Streptococcaceae,Lactobacillales,Bacilli,Firmicutes,Bacteria,known,msp_0380
+msp_0833,gut & oral,species,Streptococcus thermophilus,Streptococcus,Streptococcaceae,Lactobacillales,Bacilli,Firmicutes,Bacteria,known,msp_0833
+msp_1453,gut & oral,species,Streptococcus vestibularis,Streptococcus,Streptococcaceae,Lactobacillales,Bacilli,Firmicutes,Bacteria,known,msp_1453
