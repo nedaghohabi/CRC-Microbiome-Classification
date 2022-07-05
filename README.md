@@ -31,5 +31,5 @@ Notkestrasse 9
 D-22607 HamburgGermany
 jan.baumbach@uni-hamburg.de
 
-## Refrence:
+## Reference:
 https://featurecloud.ai/
